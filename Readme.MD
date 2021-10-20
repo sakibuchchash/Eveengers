@@ -1,7 +1,7 @@
 # Eveengers 
 ### Multi player action game
 Data structure Lab Project using "I Graphics" An OpenGL Library.
-Run this game by installing I Graphics library and moving all the files of "Game" folder into a Visual Studio Project.s
+Run this game by installing I Graphics library and moving all the files of "Game" folder into a Visual Studio CPP Project.
 
-![1](https://user-images.githubusercontent.com/16709991/99707847-34f10000-2ac7-11eb-88c5-ccde2bd32c13.jpg)
-![2](https://user-images.githubusercontent.com/16709991/99707850-35899680-2ac7-11eb-8492-5f4e6642bd74.jpg)
+![1](![20170508_014855](https://user-images.githubusercontent.com/25324071/138064293-4e30ea38-5dd8-4a0c-9956-feb783c4781a.gif))
+
